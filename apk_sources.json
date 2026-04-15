@@ -1,0 +1,10 @@
+{
+  "apkSources": [
+    {
+      "name": "Global Apk Source",
+      "type": "YANDEX_DISK",
+      "folderUrl": "https://disk.yandex.com/d/CLlg2siwyeJhfQ",
+      "includeSubfolders": true
+    }
+  ]
+}
