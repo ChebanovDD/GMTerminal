@@ -1,0 +1,106 @@
+{
+  "GMClock": {
+    "package": "com.chebanovdd.gmclock",
+    "install_flags": "-r -g -d",
+    "appops": [],
+    "pm_grants": [],
+    "deviceidle_whitelist": false,
+    "accessibility_services": [],
+    "notification_listeners": []
+  },
+  "GMFloatingMenu": {
+    "package": "com.chebanovdd.gmfloatingmenu",
+    "install_flags": "-r -g -d",
+    "appops": [
+      "SYSTEM_ALERT_WINDOW allow"
+    ],
+    "pm_grants": [
+      "android.permission.WRITE_SECURE_SETTINGS"
+    ],
+    "deviceidle_whitelist": true,
+    "accessibility_services": [],
+    "notification_listeners": []
+  },
+  "GMAppRunner": {
+    "package": "com.chebanovdd.gmapprunner",
+    "install_flags": "-r -g -d",
+    "appops": [
+      "SYSTEM_ALERT_WINDOW allow"
+    ],
+    "pm_grants": [],
+    "deviceidle_whitelist": false,
+    "accessibility_services": [
+      "com.chebanovdd.gmapprunner/.HomeAccessibilityService"
+    ],
+    "notification_listeners": []
+  },
+  "RuStore": {
+    "package": "ru.vk.store",
+    "install_flags": "-r -g -d",
+    "appops": [
+      "REQUEST_INSTALL_PACKAGES allow"
+    ],
+    "pm_grants": [],
+    "deviceidle_whitelist": false,
+    "accessibility_services": [],
+    "notification_listeners": []
+  },
+  "Gboard": {
+    "package": "com.google.android.inputmethod.latin",
+    "install_flags": "-r -g -d",
+    "appops": [],
+    "pm_grants": [],
+    "deviceidle_whitelist": false,
+    "accessibility_services": [],
+    "notification_listeners": []
+  },
+  "FileManagerPlus": {
+    "package": "com.alphainventor.filemanager",
+    "install_flags": "-r -g -d",
+    "appops": [
+      "MANAGE_EXTERNAL_STORAGE allow",
+      "REQUEST_INSTALL_PACKAGES allow"
+    ],
+    "pm_grants": [],
+    "deviceidle_whitelist": false,
+    "accessibility_services": [],
+    "notification_listeners": []
+  },
+  "HUDSpeed": {
+    "package": "air.StrelkaHUDFREE",
+    "install_flags": "-r -g -d",
+    "appops": [
+      "SYSTEM_ALERT_WINDOW allow"
+    ],
+    "pm_grants": [],
+    "deviceidle_whitelist": true,
+    "accessibility_services": [],
+    "notification_listeners": []
+  },
+  "MXPlayer": {
+    "package": "com.mxtech.videoplayer.ad",
+    "install_flags": "-r -g -d",
+    "appops": [
+      "MANAGE_EXTERNAL_STORAGE allow"
+    ],
+    "pm_grants": [],
+    "deviceidle_whitelist": false,
+    "accessibility_services": [],
+    "notification_listeners": []
+  },
+  "AnHud": {
+    "package": "com.g992.anhud",
+    "install_flags": "-r -g -d",
+    "appops": [
+      "SYSTEM_ALERT_WINDOW allow",
+      "MANAGE_EXTERNAL_STORAGE allow",
+      "REQUEST_INSTALL_PACKAGES allow"
+    ],
+    "pm_grants": [],
+    "deviceidle_whitelist": false,
+    "accessibility_services": [],
+    "notification_listeners": [
+      "com.g992.anhud/com.g992.anhud.NavigationNotificationListener"
+    ]
+  }
+}
