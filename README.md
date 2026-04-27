@@ -10,13 +10,13 @@ GMTerminal позволяет в один клик устанавливать п
   </tr>
   <tr>
     <td align="center" width=25%>
-      <img src="https://github.com/user-attachments/assets/f09bc362-a80e-4871-b695-e735c0a1c79a" alt="Install" />
+      <img src="https://github.com/user-attachments/assets/d78176bb-739e-4242-9146-dacb337c8dd1" alt="Install" />
     </td>
     <td align="center" width=25%>
-      <img src="https://github.com/user-attachments/assets/9b2f9c8f-ed2b-4df0-a2c7-0866a9f0f619" alt="Permissions" />
+      <img src="https://github.com/user-attachments/assets/7bd1de72-2c68-41da-8824-c428a3e97ec3" alt="Permissions" />
     </td>
     <td align="center" width=25%>
-      <img src="https://github.com/user-attachments/assets/b3ee0b64-e45d-4f00-aff0-356768cdb291"  alt="Terminal" />
+      <img src="https://github.com/user-attachments/assets/db375317-2f9b-4bd8-8280-0eef61a4b57d" alt="Terminal" />
     </td>
   </tr>
 </table>
