@@ -88,6 +88,15 @@
     "accessibility_services": [],
     "notification_listeners": []
   },
+  "Equalizer": {
+    "package": "com.jazibkhan.equalizer",
+    "install_flags": "-r -g -d",
+    "appops": [],
+    "pm_grants": [],
+    "deviceidle_whitelist": true,
+    "accessibility_services": [],
+    "notification_listeners": []
+  },
   "AnHud": {
     "package": "com.g992.anhud",
     "install_flags": "-r -g -d",
