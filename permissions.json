@@ -34,6 +34,19 @@
     ],
     "notification_listeners": []
   },
+  "GMTapTranslate": {
+    "package": "com.chebanovdd.gmtaptranslate",
+    "install_flags": "-r -g -d",
+    "appops": [
+      "SYSTEM_ALERT_WINDOW allow"
+    ],
+    "pm_grants": [],
+    "deviceidle_whitelist": true,
+    "accessibility_services": [
+      "com.chebanovdd.gmtaptranslate/.accessibility.GMAccessibilityService"
+    ],
+    "notification_listeners": []
+  },
   "RuStore": {
     "package": "ru.vk.store",
     "install_flags": "-r -g -d",
