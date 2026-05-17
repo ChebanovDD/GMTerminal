@@ -34,6 +34,17 @@
     ],
     "notification_listeners": []
   },
+  "GMAura": {
+    "package": "com.chebanovdd.gmaura",
+    "install_flags": "-r -g -d",
+    "appops": [],
+    "pm_grants": [
+      "android.permission.SET_WALLPAPER_COMPONENT"
+    ],
+    "deviceidle_whitelist": false,
+    "accessibility_services": [],
+    "notification_listeners": []
+  },
   "GMTapTranslate": {
     "package": "com.chebanovdd.gmtaptranslate",
     "install_flags": "-r -g -d",
