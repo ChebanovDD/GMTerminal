@@ -41,7 +41,7 @@
     "pm_grants": [
       "android.permission.SET_WALLPAPER_COMPONENT"
     ],
-    "deviceidle_whitelist": false,
+    "deviceidle_whitelist": true,
     "accessibility_services": [],
     "notification_listeners": []
   },
